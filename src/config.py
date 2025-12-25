@@ -1,0 +1,8 @@
+DATE_COL = "Order Date"
+SALES_COL = "Sales"
+PROFIT_COL = "Profit"
+QUANTITY_COL = "Quantity"
+CATEGORY_COL = "Category"
+SUBCATEGORY_COL = "Sub-Category"
+REGION_COL = "Region"
+SEGMENT_COL = "Segment"
